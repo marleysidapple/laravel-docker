@@ -12,6 +12,13 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i" rel="stylesheet">
+
+    <style type="text/css">
+    *{
+        font-family: 'Lato', sans-serif;
+    }
+    </style>
 </head>
 <body>
     <div id="app">
